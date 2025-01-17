@@ -8,6 +8,7 @@
 .mainContainer{
 	Background-color: #f5f5f5;
 	padding: 25px;
+	width: 100%;
 }
 
 .testimonial{
@@ -15,6 +16,7 @@
 	padding: 10px;
 	background-color: white;
 	margin: 10px;
+	width: 100%;
 }
 
 h4{
